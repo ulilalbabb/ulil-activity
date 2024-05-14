@@ -1,4 +1,7 @@
 Rencana Ulil Ke depannya 
 - Mengambil Bootcamp secepatnya
 - Belajar Javascript
+ * Framework Javascript
 - Belajar React Js
+- Belajar Backend
+- Belajar Database
