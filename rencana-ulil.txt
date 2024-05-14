@@ -4,3 +4,4 @@ Rencana Ulil Ke depannya
  * Framework Javascript
 - Belajar React Js
 - Belajar Backend
+- Belajar Database
